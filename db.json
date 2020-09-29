@@ -1,0 +1,42 @@
+{
+    "lojas": [
+        {
+            "id": 1,
+            "nome": "",
+            "local": "",
+            "depositos": [
+                1, 2, 3
+            ]
+        }
+    ],
+    "depositos": [
+        {
+            "id": 1,
+            "nome": "",
+            "local": "",
+            "produtos": [
+                1, 2, 3
+            ]
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "",
+            "valor": "",
+            "medio": "",
+            "quantidade": "",
+            "deposito": 1,
+            "fornecedor": 1
+        }
+    ],
+    "fornecedores": [
+        {
+            "id": 1,
+            "nome": "",
+            "produtos": [
+                1, 2, 3
+            ]
+        }
+    ]
+}
